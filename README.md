@@ -7,6 +7,18 @@
   <br/>
 </div>
 
+<div align="center">
+  
+</br>
+</br>
+
+### **note: diform is still just an idea - don't install it**
+
+</br>
+</div>
+
+
+
 ## Features
 
 Diform uses dependency injection to orchestrate data-transformation pipelines on-the-fly.
